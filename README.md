@@ -64,7 +64,7 @@ Here are some of the exciting projects I've worked on:
 ---
 If you're interested in collaborating, discussing data science, or exploring any of my projects, feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/vanshikabishtt)
+- [LinkedIn](https://www.linkedin.com/in/vanshika-bisht-9497b4339/)
 - [Email](vanshikabisht971@gmail.com)
 
 ---
@@ -73,4 +73,4 @@ If you're interested in collaborating, discussing data science, or exploring any
 
 I'm always open to connecting with like-minded professionals and fellow data science enthusiasts. You can follow me on social media:
 
-- [LinkedIn](https://www.linkedin.com/in/vanshikabishtt)
+- [LinkedIn](https://www.linkedin.com/in/vanshika-bisht-9497b4339/)
