@@ -66,7 +66,7 @@ Here are some of the exciting projects I've worked on:
 - *Tableau*: Able to build comprehensive and interactive dashboards for data storytelling.
 
 ---
-##*If you're interested in collaborating, discussing data science, or exploring any of my projects, feel free to reach out!*
+## *If you're interested in collaborating, discussing data science, or exploring any of my projects, feel free to reach out!*
 
 ## 🤝 Connect with Me
 
