@@ -77,7 +77,7 @@ If you're interested in collaborating, discussing data science, or exploring any
 
 I'm always open to connecting with like-minded professionals and fellow data science enthusiasts. You can follow me on social media:
 
-- [LinkedIn](https://www.linkedin.com/in/vanshika-bisht-9497b4339/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vanshika-bisht-9497b4339)
 
 - [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vanshikabisht971@gmail.com)
 
