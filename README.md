@@ -1,6 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vanshika%20Bisht&fontSize=40)
 
-## *Vanshika Bisht's Data Science & Machine Learning Portfolio*
+## *Vanshika Bisht's*
+Data Science & Machine Learning Portfolio
 
 Welcome to my GitHub! 👋
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
