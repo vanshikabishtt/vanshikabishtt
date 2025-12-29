@@ -1,6 +1,8 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vanshika%20Bisht&fontSize=40)
 Vanshika Bisht's Data Science & Machine Learning Portfolio
 
 Welcome to my GitHub! 👋
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am a passionate data science enthusiast with a strong foundation in Python programming, machine learning, data analysis, and visualization. This repository contains my personal projects, experiments, and learning resources.
 
@@ -74,3 +76,15 @@ If you're interested in collaborating, discussing data science, or exploring any
 I'm always open to connecting with like-minded professionals and fellow data science enthusiasts. You can follow me on social media:
 
 - [LinkedIn](https://www.linkedin.com/in/vanshika-bisht-9497b4339/)
+
+- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vanshikabisht971@gmail.com)
+
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/vanshikabishtt)
+---
+![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshikabishtt&color=blueviolet&style=flat-square" alt="Vanshika Bisht Profile Views" />
+</p>
+
+---
